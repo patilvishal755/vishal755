@@ -1,0 +1,26 @@
+{
+          "@context": "https://w3id.org/openbadges/v2",
+          "id": "adu79-bnfj7d-j403kf-sfjusf9-4jk4n89dsf-j",
+          "type": "Assertion",  "recipient": "pramod@bloomboard.com",
+          "issuedOn": "2017-06-18T10:43:56+0000",
+          "verification": {
+              "type": "hosted"
+          },
+          "badge": {
+              "type": "BadgeClass",
+              "id": "adu79-j3kfjd-j403kf-sfjusf9-bnfj7d-4jk4n8",
+              "name": "Testing Badge Baking",
+              "description": "Testing Successful Badge Baking with openbadges-bakery.",
+              "image": "https://microcredentials-static.s3.amazonaws.com/129/logo.png",
+              "criteria": "http://www.sandiego.edu/soles/centers-and-research/institute-for-entrepreneurship-in-education/mobile-technology-learning-center/",
+              "issuer": {
+                  "id": "adu79-j3kfjd-j403kf-bnfj7d-4jk4n8",
+                  "type": "Profile",
+                  "name": "Org Three",
+                  "verification" :{
+                  "allowedOrigins": "redandblackbooks.com"
+                  },
+                  "email": "pjadhav@vdrivit.com"
+              }
+          }
+      }
